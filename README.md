@@ -40,3 +40,7 @@ Limitations and Considerations :
 This toolkit is intended for educational and authorized testing purposes only. Unauthorized use on public or private systems without consent is illegal and unethical. The toolkit lacks stealth features, so it may be detected by intrusion detection systems (IDS) in professional environments.
 Conclusion :
 The Penetration Testing Toolkit provides a solid foundation for ethical hacking and red teaming exercises. It combines simplicity with practical functionality and serves as a hands-on project for understanding system vulnerabilities and defensive strategies. Whether used in labs, workshops, or real-world simulations (with permission), it contributes meaningfully to cybersecurity learning and awareness.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/57bc2233-0f45-4883-8e96-ed403118649e)
+![Image](https://github.com/user-attachments/assets/84685ae3-3486-4632-944b-0c6e1fd58ec4)
